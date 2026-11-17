@@ -243,8 +243,6 @@ Functional and technical design, development, testing and production release.
 
 <img src="https://github-profile-trophy.vercel.app/?username=eyaaabid&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="trophies"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=eyaaabid&bg_color=0d1117&color=c084fc&line=ec4899&point=22d3ee&area=true&area_color=7c3aed&hide_border=true&radius=16" alt="activity graph"/>
-
 </div>
 
 <!--
