@@ -228,6 +228,21 @@ Functional and technical design, development, testing and production release.
 
 <br/>
 
+<!-- ===================== STATS ===================== -->
+<h2 align="center">✦ GitHub Universe ✦</h2>
+<img src="assets/divider.svg" width="100%" alt="divider"/>
+
+<br/>
+
+<div align="center">
+
+<img src="metrics.svg" width="49%" alt="GitHub stats"/>
+<img src="metrics.languages.svg" width="49%" alt="Top languages"/>
+
+</div>
+
+<br/>
+
 <!-- ===================== CONTACT / FOOTER ===================== -->
 <h2 align="center">✦ Let's Build Something Beautiful ✦</h2>
 <img src="assets/divider.svg" width="100%" alt="divider"/>
