@@ -1,10 +1,10 @@
 <!-- ===================== HEADER ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:ec4899,100:22d3ee&height=250&section=header&text=Eya%20Abid&fontSize=78&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=Frontend%20%26%20Full%20Stack%20Developer%20%C2%B7%20Vue%20%C2%B7%20React%20%C2%B7%20Figma&descSize=19&descAlignY=60&descAlign=50" width="100%" alt="Eya Abid"/>
+<img src="assets/header.svg" width="100%" alt="Eya Abid"/>
 
 <a href="https://eya-portfolio.netlify.app">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=900&color=C084FC&center=true&vCenter=true&width=760&height=55&lines=Hi%2C+I'm+Eya+%F0%9F%91%8B+from+Tunis+%F0%9F%87%B9%F0%9F%87%B3;I+turn+specs+into+smooth+user+flows+%E2%9C%A8;Nuxt+%E2%80%A2+React+%E2%80%A2+REST+APIs+%E2%80%A2+Docker;From+Figma+frames+to+production+releases+%F0%9F%9A%80;Open+to+remote+work+%F0%9F%8C%8D" alt="Typing animation"/>
+  <img src="assets/typing.svg" width="760" alt="Typing animation"/>
 </a>
 
 <br/>
@@ -25,7 +25,7 @@
 
 <!-- ===================== ABOUT ===================== -->
 <h2 align="center">✦ About Me ✦</h2>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,50:ec4899,100:22d3ee&height=3" width="100%" alt="divider"/>
+<img src="assets/divider.svg" width="100%" alt="divider"/>
 
 <br/>
 
@@ -77,7 +77,7 @@ My **UI/UX background** helps me build interfaces that feel smooth, not just wor
 
 <!-- ===================== TECH ===================== -->
 <h2 align="center">✦ Tech Arsenal ✦</h2>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,50:ec4899,100:22d3ee&height=3" width="100%" alt="divider"/>
+<img src="assets/divider.svg" width="100%" alt="divider"/>
 
 <br/>
 
@@ -112,7 +112,7 @@ My **UI/UX background** helps me build interfaces that feel smooth, not just wor
 
 <!-- ===================== PROJECTS ===================== -->
 <h2 align="center">✦ Featured Missions ✦</h2>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,50:ec4899,100:22d3ee&height=3" width="100%" alt="divider"/>
+<img src="assets/divider.svg" width="100%" alt="divider"/>
 
 <br/>
 
@@ -177,7 +177,7 @@ Functional and technical design, development, testing and production release.
 
 <!-- ===================== JOURNEY ===================== -->
 <h2 align="center">✦ My Journey ✦</h2>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,50:ec4899,100:22d3ee&height=3" width="100%" alt="divider"/>
+<img src="assets/divider.svg" width="100%" alt="divider"/>
 
 <br/>
 
@@ -210,7 +210,7 @@ Functional and technical design, development, testing and production release.
 
 <!-- ===================== HOW I WORK ===================== -->
 <h2 align="center">✦ How I Work ✦</h2>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,50:ec4899,100:22d3ee&height=3" width="100%" alt="divider"/>
+<img src="assets/divider.svg" width="100%" alt="divider"/>
 
 <br/>
 
@@ -228,38 +228,9 @@ Functional and technical design, development, testing and production release.
 
 <br/>
 
-<!-- ===================== STATS ===================== -->
-<h2 align="center">✦ GitHub Universe ✦</h2>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,50:ec4899,100:22d3ee&height=3" width="100%" alt="divider"/>
-
-<br/>
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=eyaaabid&show_icons=true&hide_border=true&bg_color=0d1117&title_color=c084fc&icon_color=ec4899&text_color=c9d1d9&ring_color=22d3ee&border_radius=16" alt="stats"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eyaaabid&layout=compact&hide_border=true&bg_color=0d1117&title_color=c084fc&text_color=c9d1d9&border_radius=16" alt="languages"/>
-
-<img src="https://streak-stats.demolab.com?user=eyaaabid&hide_border=true&background=0d1117&ring=ec4899&fire=f59e0b&currStreakLabel=c084fc&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e&border_radius=16" alt="streak"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=eyaaabid&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="trophies"/>
-
-</div>
-
-<!--
-OPTIONAL: contribution snake 🐍
-1. Add a GitHub Actions workflow in .github/workflows/snake.yml using the "Platane/snk" action.
-2. Run it once, then uncomment the image below.
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/eyaaabid/eyaaabid/output/github-contribution-grid-snake-dark.svg" alt="snake"/>
-</div>
--->
-
-<br/>
-
 <!-- ===================== CONTACT / FOOTER ===================== -->
 <h2 align="center">✦ Let's Build Something Beautiful ✦</h2>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,50:ec4899,100:22d3ee&height=3" width="100%" alt="divider"/>
+<img src="assets/divider.svg" width="100%" alt="divider"/>
 
 <br/>
 
@@ -271,8 +242,8 @@ OPTIONAL: contribution snake 🐍
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1500&color=A78BFA&center=true&vCenter=true&width=600&height=30&lines=%22Make+it+work%2C+make+it+right%2C+make+it+beautiful.%22+%E2%9C%A8" alt="quote"/>
+<i>"Make it work, make it right, make it beautiful."</i>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:ec4899,100:22d3ee&height=140&section=footer" width="100%" alt="footer"/>
+<img src="assets/footer.svg" width="100%" alt="footer"/>
 
 </div>
